@@ -1,0 +1,28 @@
+img {
+    max-width: 100%;
+    height: auto;
+  }
+
+#name {
+    font-family: cursive;
+    font-size: 50;
+    text-emphasis: underline;
+    color: olive;
+    opacity: 0.5;
+}
+
+.about {
+    font-family: Helvetica, sans-serif;
+}
+
+h1 {
+    color: gray;
+}
+
+li:hover {
+    color: purple;
+}
+
+h4.about {
+color: olivedrab;
+}
